@@ -79,7 +79,7 @@ This dashboard consolidates cashflow data to offer valuable insights on receivab
 
 ### 3. Customer Insights
    Effective customer management is crucial for maintaining steady cashflow and minimizing overdue balances. This section provides insights into customer transaction behavior, allowing the organization to address challenges related to cash collection, prioritization, and risk management.
-  ![Alt text](customer-dash.png)
+  ![Alt text](cusotmer-dash.png)
    - **Customer Activity**:  
      Businesses often face difficulty tracking overdue balances and pending amounts for individual customers, which can hinder timely collections and impact cashflow. Identifying high-risk customers with outstanding balances is essential for focused collection efforts.  
      This dashboard provides a detailed view of customer transactions, highlighting customers with the highest pending amounts and overdue balances. By identifying customers with significant outstanding debts, finance teams can prioritize collections and improve cashflow management.
