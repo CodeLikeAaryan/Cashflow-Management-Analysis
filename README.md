@@ -40,6 +40,8 @@ This dashboard consolidates cashflow data to offer valuable insights on receivab
 ### 1. Overall Summary
    In this section, we address the challenges businesses face with managing cash inflows from customers, ensuring timely collections, and maintaining healthy cashflow. By forecasting receivables and analyzing payment patterns, we provide actionable insights to address these common financial challenges.
 
+   ![Alt text](home-dash.png)
+
    - **Forecasted Receivables**:  
      Organizations often struggle to predict cash inflows accurately, making it difficult to manage resources and plan for expenditures. Unexpected delays or shortfalls in expected receivables can disrupt operations and increase financial strain.  
      This dashboard provides a forecast of expected receivables within a specified time frame, offering visibility into upcoming cash inflows. By understanding projected collections, the business can prepare more effectively for future needs and make better-informed financial decisions.
