@@ -60,7 +60,7 @@ This dashboard consolidates cashflow data to offer valuable insights on receivab
 
 ### 2. Dispute Analysis
    Disputes in financial transactions present significant challenges to organizations, affecting cashflow, customer relationships, and operational efficiency. This section helps businesses address these challenges by analyzing the nature, status, and risk level of disputes.
-
+  ![Alt text](dispute-dash.png)
    - **Dispute Overview**:  
      Disputes can create delays in cashflow and affect the organization’s ability to accurately forecast revenue. Understanding the status of each dispute (whether it is escalated, resolved, or still unresolved) is essential to prioritize action and manage customer relationships.  
      This dashboard categorizes the total of 103 disputes by status—**Escalated**, **Resolved**, and **Unresolved**—and presents them in a segmented chart. By visualizing dispute status, finance teams can identify which cases need immediate action, which have been resolved, and how many remain unresolved, enabling efficient resolution and better customer service.
@@ -79,7 +79,7 @@ This dashboard consolidates cashflow data to offer valuable insights on receivab
 
 ### 3. Customer Insights
    Effective customer management is crucial for maintaining steady cashflow and minimizing overdue balances. This section provides insights into customer transaction behavior, allowing the organization to address challenges related to cash collection, prioritization, and risk management.
-
+  ![Alt text](customer-dash.png)
    - **Customer Activity**:  
      Businesses often face difficulty tracking overdue balances and pending amounts for individual customers, which can hinder timely collections and impact cashflow. Identifying high-risk customers with outstanding balances is essential for focused collection efforts.  
      This dashboard provides a detailed view of customer transactions, highlighting customers with the highest pending amounts and overdue balances. By identifying customers with significant outstanding debts, finance teams can prioritize collections and improve cashflow management.
@@ -95,7 +95,7 @@ This dashboard consolidates cashflow data to offer valuable insights on receivab
 
 ### 4. Payable Analysis
    Efficient management of payables is essential for maintaining healthy supplier relationships and optimizing cashflow. This section provides key insights into payment timelines, methods, and supplier performance, helping the organization address challenges associated with accounts payable.
-
+  ![Alt text](payable-dash.png)
    - **Payable Metrics**:  
      Monitoring the efficiency of payments and maintaining strong supplier relationships can be challenging without clear visibility into payment timelines and trends. Delays in payments can strain supplier partnerships and impact future transactions.  
      This dashboard presents essential metrics such as payment timelines, preferred payment methods, and other indicators that reflect the efficiency of accounts payable. By tracking these metrics, the organization can identify areas for improvement in payment processing, ensuring suppliers are paid on time and relationships remain positive.
