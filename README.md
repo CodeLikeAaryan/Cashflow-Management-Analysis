@@ -1,7 +1,7 @@
 # Cashflow Analysis Dashboard - PowerBI
 
 This PowerBI dashboard provides a complete view of cashflow activities, designed to help users understand the movement of money within a business and identify key financial patterns. The dashboard is structured into four main sections, each offering insights to help make informed financial decisions.
-
+![Alt text](cash-flow.jpg)
 
 ## Dashboard Sections
 
